@@ -1,0 +1,21 @@
+{
+  "name": "pratice-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snkhn007/node-pratice-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/snkhn007/node-pratice-projects/issues"
+  },
+  "homepage": "https://github.com/snkhn007/node-pratice-projects#readme"
+}
